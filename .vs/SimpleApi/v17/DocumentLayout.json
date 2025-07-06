@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\dbcontexts\\cityinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\dbcontexts\\cityinfodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\controllers\\pointofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\controllers\\pointofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\repositories\\pointofinterestinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\repositories\\pointofinterestinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\repositories\\ipointofinterestinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\repositories\\ipointofinterestinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\profiles\\pointofinterestprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\profiles\\pointofinterestprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\models\\pointofinterestforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\models\\pointofinterestforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\models\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\models\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|c:\\users\\asusiran\\source\\repos\\simpleapi\\simpleapi\\profiles\\cityprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06E9D7-57B2-49B8-8DC2-31A5CC40F047}|SimpleApi\\SimpleApi.csproj|solutionrelative:simpleapi\\profiles\\cityprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointOfInterest.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Entities\\PointOfInterest.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Entities\\PointOfInterest.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Entities\\PointOfInterest.cs",
+              "RelativeToolTip": "SimpleApi\\Entities\\PointOfInterest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:53:24.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointOfInterestInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Repositories\\PointOfInterestInfoRepository.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Repositories\\PointOfInterestInfoRepository.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Repositories\\PointOfInterestInfoRepository.cs",
+              "RelativeToolTip": "SimpleApi\\Repositories\\PointOfInterestInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:23:26.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Program.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Program.cs",
+              "RelativeToolTip": "SimpleApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:46:29.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPointOfInterestInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Repositories\\IPointOfInterestInfoRepository.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Repositories\\IPointOfInterestInfoRepository.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Repositories\\IPointOfInterestInfoRepository.cs",
+              "RelativeToolTip": "SimpleApi\\Repositories\\IPointOfInterestInfoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:35:43.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointOfInterestProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Profiles\\PointOfInterestProfiles.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Profiles\\PointOfInterestProfiles.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Profiles\\PointOfInterestProfiles.cs",
+              "RelativeToolTip": "SimpleApi\\Profiles\\PointOfInterestProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:31:13.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointOfInterestController.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Controllers\\PointOfInterestController.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Controllers\\PointOfInterestController.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Controllers\\PointOfInterestController.cs",
+              "RelativeToolTip": "SimpleApi\\Controllers\\PointOfInterestController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:27:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointOfInterestDto.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\models\\PointOfInterestDto.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\models\\PointOfInterestDto.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\models\\PointOfInterestDto.cs",
+              "RelativeToolTip": "SimpleApi\\models\\PointOfInterestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:36:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityInfoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\DbContexts\\CityInfoDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\DbContexts\\CityInfoDbContext.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\DbContexts\\CityInfoDbContext.cs",
+              "RelativeToolTip": "SimpleApi\\DbContexts\\CityInfoDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:04:46.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointOfInterestForCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\models\\PointOfInterestForCreationDto.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\models\\PointOfInterestForCreationDto.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\models\\PointOfInterestForCreationDto.cs",
+              "RelativeToolTip": "SimpleApi\\models\\PointOfInterestForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:36:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "SimpleApi\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:28:31.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CityProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Profiles\\CityProfiles.cs",
+              "RelativeDocumentMoniker": "SimpleApi\\Profiles\\CityProfiles.cs",
+              "ToolTip": "C:\\Users\\AsusIran\\source\\repos\\SimpleApi\\SimpleApi\\Profiles\\CityProfiles.cs",
+              "RelativeToolTip": "SimpleApi\\Profiles\\CityProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:29:48.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
